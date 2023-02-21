@@ -1,4 +1,4 @@
-# React / Javascript / Vite Experiment with drag/drop squares
+# React / Javascript / Vite / Vanilla CSS Experiment with Drag/Drop Squares
 
 ## Installing / Developing
 
