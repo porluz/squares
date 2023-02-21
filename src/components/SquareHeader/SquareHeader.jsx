@@ -9,7 +9,7 @@ function SquareHeader({ headerTextValue, index }) {
 
   return (
     <div className="square-header">
-      <div className="square-header-text">{headerTextValue}</div>
+      <div className="square-header-text">{headerTextValue ? headerTextValue : "\u00A0"}</div>
       <div className="square-header-input-container">
         <input
           className="square-header-input"
