@@ -1,0 +1,32 @@
+.square-header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: center;
+  align-self: flex-start;
+  overflow: hidden;
+}
+
+.square-header-text {
+  width: 75%;
+  text-align: center;
+  text-overflow: ellipsis;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 4px;
+}
+
+.square-header-input-container {
+  width: 75%;
+  padding-top: 2px;
+  text-align: center;
+  margin: auto;
+}
+
+.square-header-input {
+  width: 100%;
+  padding: 4px;
+  box-sizing: border-box;
+}

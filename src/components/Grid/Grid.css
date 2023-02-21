@@ -1,0 +1,11 @@
+.square-grid {
+  margin: 8px;
+  padding: 8px;
+  width: 600px;
+  height: 800px;
+  border: 2px black solid;
+  display: flex;
+  align-content: flex-start;
+  flex-wrap: wrap;
+  overflow: hidden;
+}

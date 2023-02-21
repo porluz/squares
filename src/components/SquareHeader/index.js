@@ -1,0 +1,1 @@
+export { SquareHeader } from "./SquareHeader";
